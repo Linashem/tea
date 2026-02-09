@@ -1,5 +1,5 @@
 export const routes = {
-    tea: "/tea",
+    tea: "/",
     oneTea:'/tea/:teaID',
   };
   
