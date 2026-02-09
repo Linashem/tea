@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import style from "./OneTeaPage.module.scss";
 import { useDispatch, useSelector } from "react-redux";
 import { oneTeaActions } from "../../store/oneTeaReducer";
-import { teaData, teaDataPage } from "../../helpers/teaData";
+import {  teaDataPage } from "../../helpers/teaData";
 
 export const OneTeaPage = () => {
   const teaData = useSelector((state) => state.tea);

@@ -1,6 +1,6 @@
 import React from "react";
 import style from "./TeaList.module.scss";
-import { teaData, teaDataPage } from "../../helpers/teaData";
+import { teaDataPage } from "../../helpers/teaData";
 import { useDispatch } from "react-redux";
 import { Card } from "../card/Card";
 import { oneTeaActions } from "../../store/oneTeaReducer";
