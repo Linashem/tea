@@ -1,7 +1,7 @@
 export const teaDataPage = [
   {
     id: 100,
-    imgSrc: "/pic_card1.jpg",
+    imgSrc: "/green.png",
     text: "Чай «БАЗОВЫЙ» для начинающих",
   },
   {
